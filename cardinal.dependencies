@@ -8,6 +8,10 @@
     "target_path": "external/sony/boringssl-compat"
   },
   {
+    "repository":  "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+  },
+  {
     "repository":  "android_kernel_motorola_msm8610",
     "target_path": "kernel/motorola/msm8610"
   }

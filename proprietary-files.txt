@@ -37,6 +37,7 @@ lib/libqomx_core.so
 lib/libril.so
 lib/libtpa_core.so
 lib/libtpa.so
+lib/libmemalloc.so
 vendor/lib/drm/libdrmwvmplugin.so
 vendor/lib/egl/eglsubAndroid.so
 vendor/lib/egl/libEGL_adreno.so
